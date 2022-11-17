@@ -14,7 +14,7 @@ https://linearpaye.com/
 
 ## Features
 
-- Crypto Purchases with SEPE, Visa and Mastercards
+- Crypto Purchases with SEPA, Visa and Mastercards
 - Crypto/Token Swap
 
 
